@@ -1,0 +1,13 @@
+{
+  "package-name": "recommendationengine",
+  "package-version": "2.11-1.0",
+  "git-branch": "master",
+  "docker-build": "False",
+  "servers": [{
+    "server-name": "linktimeDev",
+    "server-endpoint": "http://106.14.213.68:8080/v2/artifacts"
+  }, {
+    "server-name": "tianyu",
+    "server-endpoint": "http://172.20.4.212:8000"
+  }]
+}

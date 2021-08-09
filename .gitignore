@@ -1,0 +1,6 @@
+target/*
+derby.log
+metastore_db/*
+project/*
+proxy_scp
+.DS_Store
